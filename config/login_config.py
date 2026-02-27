@@ -42,7 +42,7 @@ B_COOKIES = {
     "channel": "homepage",
     "cookie_session_id": "CP42cZkEtkFY0vwxaJywrlyCBpZmVPXc",
     "cookie_referer": "",
-    "b_user_token": "token_699fedcbc3fedF1TKMVhL6CSwriS4y2f6",
+    "b_user_token": "",
     "appsc": "appxz3zrnfn4438",
     "with_app_id": "appxz3zrnfn4438",
     "shop_type": "4y2f6",
